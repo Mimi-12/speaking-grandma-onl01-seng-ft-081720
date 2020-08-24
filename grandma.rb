@@ -1,5 +1,5 @@
-def speak_to_grandma(PHRASE)
-if phrase != phrase.uppercase
+def speak_to_grandma (phrase)
+if phrase != "phrase.uppercase"
   return "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
